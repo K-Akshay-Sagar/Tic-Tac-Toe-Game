@@ -1,0 +1,2 @@
+# Tic Tac Toe Game
+Tic-tac-toe is two-player strategy game played on a 3x3 grid. Players take alternate turns marking an empty cell with their respective symbols (usually "X" for one player and "O" for the other) until one player achieves a winning pattern or the grid is filled, resulting in a draw. The objective is to create a horizontal, vertical, or diagonal line of three of one's own symbols before the opponent does.
